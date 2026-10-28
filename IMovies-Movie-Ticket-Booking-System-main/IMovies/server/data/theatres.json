@@ -1,0 +1,46 @@
+[
+  {
+    "id": "pvr-phoenix",
+    "name": "PVR Phoenix Mall",
+    "city": "Pune",
+    "address": "Phoenix Marketcity, Viman Nagar",
+    "screens": [
+      "Screen 1",
+      "IMAX",
+      "Screen 3"
+    ],
+    "amenities": [
+      "Dolby Atmos",
+      "Recliner",
+      "Food court"
+    ]
+  },
+  {
+    "id": "inox-city",
+    "name": "INOX City Center",
+    "city": "Pune",
+    "address": "City Center Mall, Bund Garden",
+    "screens": [
+      "Screen 2",
+      "Screen 4"
+    ],
+    "amenities": [
+      "4K projection",
+      "Wheelchair access"
+    ]
+  },
+  {
+    "id": "cinepolis-downtown",
+    "name": "Cinepolis Downtown",
+    "city": "Pune",
+    "address": "Downtown Plaza, Baner",
+    "screens": [
+      "Audi 1",
+      "Audi 2"
+    ],
+    "amenities": [
+      "Laser projection",
+      "Cafe"
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Manrope", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Playfair Display", Georgia, serif;
+  --color-cinema-950: #07070c;
+  --color-cinema-900: #0d0d16;
+  --color-cinema-800: #161624;
+  --color-gold-400: #f5c518;
+  --color-gold-500: #e0b00d;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #07070c;
+  color: #f4f4f5;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  min-height: 100svh;
+}
+
+/* Custom Cinema Glow & Ticket Utilities */
+.screen-glow {
+  box-shadow: 0 4px 30px -4px rgba(245, 197, 24, 0.4), 0 10px 40px -10px rgba(56, 189, 248, 0.2);
+}
+
+.ticket-notch-l {
+  position: relative;
+}
+.ticket-notch-l::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: -12px;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background-color: #07070c;
+  transform: translateY(-50%);
+  z-index: 10;
+}
+.ticket-notch-r::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: -12px;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background-color: #07070c;
+  transform: translateY(-50%);
+  z-index: 10;
+}
+
+/* Custom subtle scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0d0d16;
+}
+::-webkit-scrollbar-thumb {
+  background: #27273a;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3f3f58;
+}

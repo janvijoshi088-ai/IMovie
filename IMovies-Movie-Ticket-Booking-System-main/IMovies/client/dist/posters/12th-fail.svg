@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" role="img" aria-label="12th Fail poster">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1e3a5f"/>
+      <stop offset="100%" stop-color="#07070c"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#bg)"/>
+  <text x="200" y="250" fill="#f5c518" font-size="18" text-anchor="middle" font-family="Georgia, serif" letter-spacing="6">SAMPLE POSTER</text>
+  <text x="200" y="320" fill="#ffffff" font-size="42" text-anchor="middle" font-family="Georgia, serif">12th Fail</text>
+  <text x="200" y="370" fill="#cbd5e1" font-size="16" text-anchor="middle" font-family="sans-serif">2023 · Drama</text>
+</svg>

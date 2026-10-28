@@ -1,0 +1,306 @@
+[
+  {
+    "id": "gladiator-ii",
+    "title": "Gladiator II",
+    "year": 2026,
+    "rating": 8.9,
+    "duration": "2h 28m",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "language": "English",
+    "certificate": "UA",
+    "director": "Ridley Scott",
+    "cast": [
+      "Lead Actor"
+    ],
+    "synopsis": "A grand return to the Colosseum.",
+    "poster": "",
+    "backdrop": "",
+    "featured": false,
+    "createdAt": "2026-10-26T20:06:18.428Z",
+    "updatedAt": "2026-10-26T20:06:18.442Z"
+  },
+  {
+    "id": "oppenheimer",
+    "title": "Oppenheimer",
+    "year": 2023,
+    "rating": 8.3,
+    "duration": "3h 0m",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "language": "English",
+    "certificate": "UA",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Robert Downey Jr."
+    ],
+    "synopsis": "The story of J. Robert Oppenheimer and the creation of the atomic bomb, told with tense, large-format cinema.",
+    "poster": "/posters/oppenheimer.jpg",
+    "backdrop": "/posters/oppenheimer-wide.jpg",
+    "featured": true
+  },
+  {
+    "id": "interstellar",
+    "title": "Interstellar",
+    "year": 2014,
+    "rating": 8.7,
+    "duration": "2h 49m",
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Drama"
+    ],
+    "language": "English",
+    "certificate": "UA",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ],
+    "synopsis": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity’s survival.",
+    "poster": "/posters/interstellar.jpg",
+    "backdrop": "/posters/interstellar.jpg",
+    "featured": true
+  },
+  {
+    "id": "jawan",
+    "title": "Jawan",
+    "year": 2023,
+    "rating": 7,
+    "duration": "2h 49m",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "language": "Hindi",
+    "certificate": "UA",
+    "director": "Atlee",
+    "cast": [
+      "Shah Rukh Khan",
+      "Nayanthara",
+      "Vijay Sethupathi"
+    ],
+    "synopsis": "A man sets out on a mission to correct the wrongs in society, with a high-voltage action drama.",
+    "poster": "/posters/jawan.jpg",
+    "backdrop": "/posters/jawan.jpg",
+    "featured": true
+  },
+  {
+    "id": "dune-part-two",
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "rating": 8.5,
+    "duration": "2h 46m",
+    "genres": [
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "language": "English",
+    "certificate": "UA",
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson"
+    ],
+    "synopsis": "Paul Atreides unites with the Fremen to wage war against House Harkonnen and decide the fate of Arrakis.",
+    "poster": "/posters/dune-part-two.jpg",
+    "backdrop": "/posters/dune-part-two.jpg",
+    "featured": true
+  },
+  {
+    "id": "spider-verse",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "rating": 8.6,
+    "duration": "2h 20m",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "language": "English",
+    "certificate": "U",
+    "director": "Joaquim Dos Santos",
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Oscar Isaac"
+    ],
+    "synopsis": "Miles Morales catapults across the Multiverse, meeting a team of Spider-People on a collision course.",
+    "poster": "/posters/spider-verse.jpg",
+    "backdrop": "/posters/spider-verse.jpg",
+    "featured": false
+  },
+  {
+    "id": "12th-fail",
+    "title": "12th Fail",
+    "year": 2023,
+    "rating": 8.8,
+    "duration": "2h 27m",
+    "genres": [
+      "Drama",
+      "Biography"
+    ],
+    "language": "Hindi",
+    "certificate": "U",
+    "director": "Vidhu Vinod Chopra",
+    "cast": [
+      "Vikrant Massey",
+      "Medha Shankar"
+    ],
+    "synopsis": "Based on a true story, a determined student works against the odds to join the civil services.",
+    "poster": "/posters/12th-fail.svg",
+    "backdrop": "/posters/12th-fail.svg",
+    "featured": false
+  },
+  {
+    "id": "dark-knight",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "rating": 9,
+    "duration": "2h 32m",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Drama"
+    ],
+    "language": "English",
+    "certificate": "UA",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "synopsis": "Batman faces the Joker, a criminal mastermind who plunges Gotham into chaos.",
+    "poster": "/posters/dark-knight.jpg",
+    "backdrop": "/posters/dark-knight.jpg",
+    "featured": false
+  },
+  {
+    "id": "rrr",
+    "title": "RRR",
+    "year": 2022,
+    "rating": 7.8,
+    "duration": "3h 7m",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "language": "Telugu",
+    "certificate": "UA",
+    "director": "S. S. Rajamouli",
+    "cast": [
+      "N. T. Rama Rao Jr.",
+      "Ram Charan",
+      "Alia Bhatt"
+    ],
+    "synopsis": "A fictional story about two Indian revolutionaries and their fight against the British Raj.",
+    "poster": "/posters/rrr.jpg",
+    "backdrop": "/posters/rrr.jpg",
+    "featured": false
+  },
+  {
+    "id": "inception",
+    "title": "Inception",
+    "year": 2010,
+    "rating": 8.8,
+    "duration": "2h 28m",
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Thriller"
+    ],
+    "language": "English",
+    "certificate": "UA",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page"
+    ],
+    "synopsis": "A thief who steals corporate secrets through dream-sharing is given a chance to have his crime erased.",
+    "poster": "/posters/inception.jpg",
+    "backdrop": "/posters/inception.jpg",
+    "featured": false
+  },
+  {
+    "id": "kalki",
+    "title": "Kalki 2898 AD",
+    "year": 2024,
+    "rating": 7,
+    "duration": "3h 1m",
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Adventure"
+    ],
+    "language": "Telugu",
+    "certificate": "UA",
+    "director": "Nag Ashwin",
+    "cast": [
+      "Prabhas",
+      "Amitabh Bachchan",
+      "Deepika Padukone"
+    ],
+    "synopsis": "A mythic sci-fi epic set in a future dystopia, weaving ancient legend with a rebel uprising.",
+    "poster": "/posters/kalki.jpg",
+    "backdrop": "/posters/kalki.jpg",
+    "featured": false
+  },
+  {
+    "id": "inside-out-2",
+    "title": "Inside Out 2",
+    "year": 2024,
+    "rating": 7.6,
+    "duration": "1h 36m",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "language": "English",
+    "certificate": "U",
+    "director": "Kelsey Mann",
+    "cast": [
+      "Amy Poehler",
+      "Maya Hawke",
+      "Kensington Tallman"
+    ],
+    "synopsis": "Riley’s emotions welcome new feelings as she enters her teenage years.",
+    "poster": "/posters/inside-out-2.jpg",
+    "backdrop": "/posters/inside-out-2.jpg",
+    "featured": false
+  },
+  {
+    "id": "pathaan",
+    "title": "Pathaan",
+    "year": 2023,
+    "rating": 6.6,
+    "duration": "2h 26m",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "language": "Hindi",
+    "certificate": "UA",
+    "director": "Siddharth Anand",
+    "cast": [
+      "Shah Rukh Khan",
+      "Deepika Padukone",
+      "John Abraham"
+    ],
+    "synopsis": "An exiled RAW agent works with an unlikely ally to stop a mercenary group from attacking India.",
+    "poster": "/posters/pathaan.jpg",
+    "backdrop": "/posters/pathaan.jpg",
+    "featured": false
+  }
+]
